@@ -72,10 +72,11 @@ To plot all features in one single chart, I used the px.scatter_3d.
 
 <br>
 <p align="center">
-<img src="3d-plot.png" width="500" > 
+<img src="GAds-CLU-IMG/3d-plot.png" width="500" > 
 </p>
 
 ### Principal Component Analysis (PCA)
+For a bidimensional visualization, I used the Principal Component Analysis (PCA)
 
 <br>
 <p align="center">
@@ -83,8 +84,6 @@ To plot all features in one single chart, I used the px.scatter_3d.
 </p>
 
 
-For a bidimensional visualization, I used the Principal Component Analysis (PCA)
-(PCA)
 
 ## Conclusion 
 
