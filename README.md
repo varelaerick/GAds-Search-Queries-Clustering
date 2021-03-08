@@ -72,7 +72,7 @@ To plot all features in one single chart, I used the px.scatter_3d.
 
 <br>
 <p align="center">
-<img src="GAds-CLU-IMG/3d plot.gif" width="500" > 
+<img src="3d-plot.png" width="500" > 
 </p>
 
 ### Principal Component Analysis (PCA)
