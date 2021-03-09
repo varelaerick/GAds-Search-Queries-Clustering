@@ -1,4 +1,4 @@
-# Google Ads Search Queries Clustering
+# Google Ads Search Queries Clustering - Proj
 
 ## Motivation
 
