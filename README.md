@@ -101,7 +101,7 @@ However, I choose the **Gaussian Mixture** for some reasons.<br/>
 * **SQ_Sessions_Minimally_Interested-GM** - Shows the smaller Session mean. However the Total sessions is the higher, also that algo have the second higher Avg. Session Duration.
 <br/>
 With that information, it is possible to set strategies to reduce rejection. It's also possible to bring more sessions to the web site and last but not least, improve the revenue optimizing the budget of the campaigns.
- 
+<br/>
 <br/>
 Author: Erick C. Varela <br/>
 Date: 09/01/2020 
